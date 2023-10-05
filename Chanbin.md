@@ -1,0 +1,1 @@
+A Math-CS major at UC San Diego who's genuinely passionate about coding with experience in Java and interested in a career in software engineering. My academic journey has provided a strong foundation in mathematics and computer science, which incorporates analytical problem-solving and software development skills. Able to work within confidentiality constraints.
