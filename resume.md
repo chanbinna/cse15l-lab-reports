@@ -1,3 +1,4 @@
+# Chanbin Na
 +1 (206) 349-5920 | San Diego, CA  | chna@ucsd.edu | linkedin.com/in/chanbin-na-3264b01a6/
 
 ### SUMMARY
@@ -21,10 +22,10 @@ _Computer Science Pre-Major,_ _A.A._ _GPA: 3.87/4.00_ [Apr 2020 - Aug 2023] 
 
 ### TECHNICAL SKILLS
 ---
-**Programming Languages** | Java, Java Script, Python, HTML / CSS
-**Tools** | GitHub, Ajax, MathJax
-**Software** | Microsoft Office – Figma, Word, Excel, PowerPoint, Outlook, Google Suite – Docs, Spreadsheet, Zoom
-**Spoken Languages** | Korean written and verbal fluency, English written and verbal fluency.
+**Programming Languages** | Java, Java Script, Python, HTML / CSS\
+**Tools** | GitHub, Ajax, MathJax\
+**Software** | Microsoft Office – Figma, Word, Excel, PowerPoint, Outlook, Google Suite – Docs, Spreadsheet, Zoom\
+**Spoken Languages** | Korean written and verbal fluency, English written and verbal fluency.\
 
 ### EXPERIENCES
 ---
