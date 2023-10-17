@@ -3,8 +3,10 @@
 ## `cd` command with no argument 
 ![image](https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/75f9867e-d9ad-4824-95aa-3aa0e8a34004)
 <p>The working directory right now is <code>/home</code>. </p>
-<p><code>cd</code> stands for change directory. But as I didn't put any argument as the screenshot above, the computer has no sense what directory to change.
-So it ended up as not doing anything, and even though there was no error message, I could say it is error. </p>
+<p><code>cd</code> stands for change directory. <code>cd</code> with no argument is going to home directory, so it will stay in the same directory</p>
+<img width="288" alt="image" src="https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/7d933b80-f237-4bb4-b259-56bf4b81e024">
+<p>The working directory here is <code>/home/lecture1</code>.</p>
+<p>In this case, as the <code>cd</code> without argument result to directing to the home directory, it changes the working directory to <code>/home/</code>.</p>
 
 ---
 
