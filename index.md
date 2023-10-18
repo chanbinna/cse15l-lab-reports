@@ -1,2 +1,2 @@
 Hello World!\
-[resume](/resume)
+[resume](/resume.md)
