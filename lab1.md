@@ -3,7 +3,7 @@
 ## `cd` command with no argument 
 ![image](https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/75f9867e-d9ad-4824-95aa-3aa0e8a34004)
 <p>The working directory right now is <code>/home</code>. </p>
-<p>For this, I previously answered that as I put nothing after this command, it is not doing anything, and it's error even though there was no error messages. But I got the feedback that it is actually not the error at all. So I changed it as below </p>
+<p><em>For this, I previously answered that as I put nothing after this command, it is not doing anything, and it's error even though there was no error messages. But I got the feedback that it is actually not the error at all. So I changed it as below</em></p>
 <p><code>cd</code> stands for change directory. <code>cd</code> with no argument is going to home directory, so it will stay in the same directory</p>
 <img width="288" alt="image" src="https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/7d933b80-f237-4bb4-b259-56bf4b81e024">
 <p>The working directory here is <code>/home/lecture1</code>.</p>
