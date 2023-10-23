@@ -61,6 +61,7 @@ class StringServer {
 - The relevant field changed from `""` to `"1. Hello"` after this request. It added the string that I put after `/add-message?s=` to the list with the number index. In order to make this work, I added a variable counter that could always track the index.
   - `counter`: 1
   - `list`: `"1.Hello\n"`
+  
 ### 2. Second Screenshot
 ![image](https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/6d7dd4d8-f8a1-4fb9-808d-0deceb4c3150)
 - `handleRequest(URI url)` is called with URI `http://localhost:4000/add-message?s=How%20are%20you`
@@ -70,6 +71,7 @@ class StringServer {
 - The relevant field changed from `"1. Hello"` to `"1. Hello\n2. How are you"` after this request? It added the string that I put after `/add-message?s=` to the list with the number index.
   - `counter`: 2
   - `list`: `"1. Hello\n2. How are you"`
+
 ---
 ## Part 2
 ### Path to the Private Key
@@ -145,4 +147,5 @@ I think I learned lots of things through week 2 and week 3 materials.
 - learned details of debugging through class
 - learned new terminal commands `mkdir` and `man`
 - learned how to set the ssh key to access to server faster
+
 I was able to deveop those skills through week 2 and 3. 
