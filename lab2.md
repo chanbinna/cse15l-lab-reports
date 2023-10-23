@@ -61,7 +61,7 @@ class StringServer {
 - The relevant field changed from `""` to `"1. Hello"` after this request. It added the string that I put after `/add-message?s=` to the list with the number index. In order to make this work, I added a variable counter that could always track the index.
   - `counter`: 1
   - `list`: `"1.Hello\n"`
-### Second Screenshot
+### 2. Second Screenshot
 ![image](https://github.com/chanbinna/cse15l-lab-reports/assets/91897225/6d7dd4d8-f8a1-4fb9-808d-0deceb4c3150)
 - `handleRequest(URI url)` is called with URI `http://localhost:4000/add-message?s=How%20are%20you`
 - the relevant argument here is the URL `http://localhost:4000/add-message?s=How%20are%20you`. The relevant field list's value changed to `"1. Hello\n2. How are you"`
@@ -73,17 +73,17 @@ class StringServer {
 ---
 ## Part 2
 ### Path to the Private Key
-```
+```bash
 Chanbins-Macbook-Pro:~ m1mac$ ls ~/.ssh/id_ed25519.pub
 /Users/m1mac/.ssh/id_ed25519.pub
 ```
 ### Path to the Public Key
-```
+```bash
 [cs15lfa23sq@ieng6-202]:~:27$ ls ~/.ssh/authorized_keys
 /home/linux/ieng6/cs15lfa23/cs15lfa23sq/.ssh/authorized_keys
 ```
 ### log ieg6
-```
+```bash
 Chanbins-Macbook-Pro:~ m1mac$ ls ~/.ssh/id_ed25519.pub
 /Users/m1mac/.ssh/id_ed25519.pub
 Chanbins-Macbook-Pro:~ m1mac$ ssh cs15lfa23sq@ieng6.ucsd.edu
