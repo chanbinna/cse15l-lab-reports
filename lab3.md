@@ -206,6 +206,8 @@ As I sent the command `grep -n "medical research" biomed/*`, it printed out the 
 This also works when you manually send the file like this. The command `grep -n "high-risk" biomed/gb-2003-4-9-r58.txt biomed/1472-6807-2-1.txt biomed/1471-2288-3-4.txt biomed/1472-6823-3-1.txt` searches through the files here and prints out the file name, line number, and the line that contains this string.\
 This command contains all the information that we could find in other commands that I introduced before. This could be especially useful if you want all the information that it could produce. 
 
+(I found all the source from https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 
 
 
