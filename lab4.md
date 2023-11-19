@@ -18,7 +18,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ---
 ## 4. Edit the code file `ListExamples.java` to fix the failing test
 ![Alt text](image-5.png)\
-(File after change)![Alt text](image-3.png)
+(File after change)\
+![Alt text](image-3.png)\
 *Keys Pressed: First I used command `vim ListExamples.java` to open the vim java file. Then the file is opened as a vim. in a normal mode `/index1` and `<enter>` to search the index1 file that we want to change. Then press`<n><n><n><n><n><n><n><n><n>` 9 times to find the exact index1 that we want to make change. Then press `<w>` to move the curser to `+` in the code before we make any change. Then press `<i>` to enter to the insert mode, then `<backspace><backspace>` to delete the 1. Now type `2` to change 1 to 2 and `<spacebar>` to make the format proper. Then now `<esc>` to exit the insert mode. now `:wq` to save and exit the vim.*
 
 ---
